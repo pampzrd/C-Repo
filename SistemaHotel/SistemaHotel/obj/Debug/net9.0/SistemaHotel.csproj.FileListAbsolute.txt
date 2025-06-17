@@ -1,0 +1,15 @@
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\bin\Debug\net9.0\SistemaHotel.exe
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\bin\Debug\net9.0\SistemaHotel.deps.json
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\bin\Debug\net9.0\SistemaHotel.runtimeconfig.json
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\bin\Debug\net9.0\SistemaHotel.dll
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\bin\Debug\net9.0\SistemaHotel.pdb
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\SistemaHotel.GeneratedMSBuildEditorConfig.editorconfig
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\SistemaHotel.AssemblyInfoInputs.cache
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\SistemaHotel.AssemblyInfo.cs
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\SistemaHotel.csproj.CoreCompileInputs.cache
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\SistemaHotel.sourcelink.json
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\SistemaHotel.dll
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\refint\SistemaHotel.dll
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\SistemaHotel.pdb
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\SistemaHotel.genruntimeconfig.cache
+E:\SERV\CODE\C-Repo\SistemaHotel\SistemaHotel\obj\Debug\net9.0\ref\SistemaHotel.dll
