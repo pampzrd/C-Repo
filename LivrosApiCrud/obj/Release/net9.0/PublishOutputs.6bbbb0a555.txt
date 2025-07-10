@@ -1,6 +1,7 @@
 E:\SERV\CODE\C-Repo\LivrosApiCrud\bin\Release\net9.0\publish\ApiCrudP.exe
 E:\SERV\CODE\C-Repo\LivrosApiCrud\bin\Release\net9.0\publish\appsettings.Development.json
 E:\SERV\CODE\C-Repo\LivrosApiCrud\bin\Release\net9.0\publish\appsettings.json
+E:\SERV\CODE\C-Repo\LivrosApiCrud\bin\Release\net9.0\publish\vercel.json
 E:\SERV\CODE\C-Repo\LivrosApiCrud\bin\Release\net9.0\publish\ApiCrudP.dll
 E:\SERV\CODE\C-Repo\LivrosApiCrud\bin\Release\net9.0\publish\ApiCrudP.runtimeconfig.json
 E:\SERV\CODE\C-Repo\LivrosApiCrud\bin\Release\net9.0\publish\ApiCrudP.pdb
