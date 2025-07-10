@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/swagger/(.*)", "dest": "/public/swagger/$1" }
+    { "src": "/swagger/(.*)", "dest": "/swagger/$1" }
   ]
 }
