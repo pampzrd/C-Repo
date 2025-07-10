@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/swagger/(.*)", "dest": "/public/swagger/$1" }
+  ]
+}
