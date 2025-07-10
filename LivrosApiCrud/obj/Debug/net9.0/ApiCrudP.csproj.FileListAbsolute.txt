@@ -311,4 +311,3 @@ E:\SERV\CODE\C-Repo\LivrosApiCrud\obj\Debug\net9.0\refint\ApiCrudP.dll
 E:\SERV\CODE\C-Repo\LivrosApiCrud\obj\Debug\net9.0\ApiCrudP.pdb
 E:\SERV\CODE\C-Repo\LivrosApiCrud\obj\Debug\net9.0\ApiCrudP.genruntimeconfig.cache
 E:\SERV\CODE\C-Repo\LivrosApiCrud\obj\Debug\net9.0\ref\ApiCrudP.dll
-E:\SERV\CODE\C-Repo\LivrosApiCrud\bin\Debug\net9.0\vercel.json
